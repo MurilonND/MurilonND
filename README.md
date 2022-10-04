@@ -3,5 +3,3 @@ Hello my fellows programmers, my name is Murilo Nogueira Duarte, I'm a brazilian
 In this moment I'm on my first year on college studying computer engineering.
 
 I have basic knowledge on JavaScript, Python, C and HTML
-
-If you want to contact me, my email is: murilonog2013@gmail.com
